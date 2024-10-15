@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+view rest.get rest 
+=======
 HARRISH MODIFIED
+>>>>>>> e42d0ebbeff0cdc2f4a4537a56e7d51cd8c5df6f
